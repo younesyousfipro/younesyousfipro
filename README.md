@@ -22,6 +22,28 @@ _(more projects coming soon)_
 
 ---
 
+## Homelab Setup
+
+![Homelab](assets/homelab.jpg)
+
+Small hybrid homelab combining virtualized and bare-metal nodes:
+
+- **Control plane**:
+  - Dell OptiPlex 7050 (Proxmox)
+  - 4 vCPU, 8 GB RAM
+  - Hosts the Kubernetes control plane (k3s)
+
+- **Worker nodes**:
+  - 2 × Dell Wyse 5070 (Ubuntu Server)
+  - 2 vCPU, 4 GB RAM each
+  - Used as bare-metal Kubernetes workers
+
+- **Network**:
+  - Simple Ethernet switch
+  - Local network, SSH access from MacBook Pro (iTerm)
+
+---
+
 ## 🛠️ Tech
 
 - Kubernetes
