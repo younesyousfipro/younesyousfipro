@@ -1,7 +1,7 @@
 # Younes Yousfi
 
 Freshly graduated software engineer transitioning to DevOps/Cloud.
-Building and doucmenting Kubernates-based infrastructure in my homelab.
+Building and documenting Kubernetes-based infrastructure in my homelab.
 
 ---
 
