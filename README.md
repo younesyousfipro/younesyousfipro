@@ -42,6 +42,9 @@ Small hybrid homelab combining virtualized and bare-metal nodes:
   - Simple Ethernet switch
   - Local network, SSH access from MacBook Pro (iTerm)
 
+- **Pseudo Nas**:
+  - 512 gb ssd drive from old laptop.
+
 ---
 
 ## 🛠️ Tech
